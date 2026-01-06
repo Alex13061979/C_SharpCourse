@@ -1,0 +1,15 @@
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\bin\Debug\net9.0\C_SharpCourse.exe
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\bin\Debug\net9.0\C_SharpCourse.deps.json
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\bin\Debug\net9.0\C_SharpCourse.runtimeconfig.json
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\bin\Debug\net9.0\C_SharpCourse.dll
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\bin\Debug\net9.0\C_SharpCourse.pdb
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.AssemblyInfoInputs.cache
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.AssemblyInfo.cs
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.csproj.CoreCompileInputs.cache
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.dll
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\refint\C_SharpCourse.dll
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.pdb
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.genruntimeconfig.cache
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\ref\C_SharpCourse.dll
+D:\Alex\C_Sharp\C_SharpCourse_Sol\C_SharpCourse\obj\Debug\net9.0\C_SharpCourse.sourcelink.json
